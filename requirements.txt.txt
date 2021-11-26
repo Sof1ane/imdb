@@ -1,6 +1,0 @@
-streamlit
-pandas
-regex
-missingno
-scrapy
-csv
